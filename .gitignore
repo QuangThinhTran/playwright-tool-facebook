@@ -1,0 +1,10 @@
+.claude/
+config.json
+authen.json
+.docs-refer/
+config/
+images/
+node_modules/
+log/
+package-lock.json
+.DS_Store
